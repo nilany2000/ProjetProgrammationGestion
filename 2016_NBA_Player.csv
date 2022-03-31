@@ -1,0 +1,21 @@
+Rank;Name;Age;Position;Team;Games Played;Field Goals Made Per Game; Field Goals Attempted Per Game;Field Goals Made Percentage;3 Point Made Per Game;3 Point Attempted Per Game;3 Point Made Percentage ;Free Throws Made Per Game;Free Throws Attempted Per Game;Free Throws Made Percentage;Rebounds Per Game;Assists per game;Steals Per Game;Blocks per Game;Points Per game
+1;Russell Westbrook;27;Point Guard;Oklahoma City Thunder;81;10.2;24.0;42.5;2.5;7.2;34.3;8.8;10.4;84.5;10.7;10.4;1.6;0.4;31.6
+2;James Harden;27;Shooting Guard;Houston Rocks;81;8.3;18.9;44.0;3.2;9.3;34.7;9.2;10.9;84.7;8.1;11.2;1.5;0.5;29.1
+3;Isaiah Thomas;33;Point Guard;Boston Celtics;76;9.0;19.4;46.3;3.2;8.5;37.9;7.8;8.5;90.9;2.7;5.9;0.9;0.2;28.9
+4;Anthony Davis;23;Power Forward;New Orleans Pelicans;75;10.3;20.3;50.5;0.5;1.8;29.9;6.9;8.6;80.2;11.8;2.1;1.3;2.2;28.0
+5;DeMar DeRozan;32;Guard / Forward;Toronto Raptors;74;9.7;20.9;46.7;0.4;1.7;26.6;7.4;8.7;84.2;5.2;3.9;1.1;0.2;27.3
+6;Damian Lillard;26;Point Guard;Portland Trail Blazers;75;8.8;19.8;44.4;2.9;7.7;37.0;6.5;7.3;89.5;4.9;5.9;0.9;0.3;27.0
+7;DeMarcus Cousins;26;Center;Sacramento Kings;72;9.0;19.9;45.2;1.8;5.0;36.1;7.2;9.3;77.2;11.0;4.6;1.4;1.3;27.0
+8;LeBron James;31;Small Forward;Cleveland Cavaliers;74;9.9;18.2;54.8;1.7;4.6;36.3;4.8;7.2;67.4;8.6;8.7;1.2;0.6;26.4
+9;Kawhi Leonard;25;Small Forward; San Antonio Spurs;74;8.6;17.7;48.5;2.0;5.2;38.0;6.3;7.2;88.0;5.8;3.5;1.8;0.7;25.5
+10;Stephen Curry;28;Point Guard;Golden State Warriors;79;8.5;18.3;46.8;4.1;10.0;41.1;4.1;4.6;89.8;4.5;6.6;1.8;0.2;25.3
+11;Kyrie Irving;24;Point Guard;Cleveland Cavaliers;72;9.3;19.7;47.3;2.5;6.1;40.1;4.1;4.6;90.5;3.2;5.8;1.2;0.3;25.2
+12;Karl-Anthony Towns;20;Center;Minnesota Timberwolves;82;9.8;18.0;54.2;1.2;3.4;36.7;4.3;5.2;83.2;12.3;2.7;0.7;1.3;25.1
+13;Kevin Durant;28; Small Forward;Golden State Warriors;62;8.9;16.5;53.7;1.9;5.0;37.5;5.4;6.2;87.5;8.3;4.8;1.1;1.6;25.1
+14;Jimmy Butler;27;Shooting Guard;Chicago Bulls;76;7.5;16.5;45.5;1.2;3.3;36.7;7.7;8.9;86.5;6.2;5.5;1.9;0.4;23.9
+15;Paul George;26;Small Forward;Indiana Pacers;75;8.3;18.0;46.1;2.6;6.6;39.3;4.5;5.0;89.8;6.6;3.3;1.6;0.4;23.7
+16;Andrew Wiggins;27;Forward;Minnesota Timberwolves;82;8.6;19.1;45.2;1.3;3.5;35.6;5.0;6.6;76.0;4.0;2.3;1.0;0.4;23.6
+17;Kemba Walker;31;Guard ;New York Knicks;79;8.1;18.3;44.4;3.0;7.6;39.9;3.8;4.5;84.7;3.9;5.5;1.1;0.3;23.2
+18;John Wall;31;Guard;Houston Rocks;78;8.3;18.4;45.1;1.1;3.5;32.7;5.4;6.8;80.1;4.2;10.7;2.0;0.6;23.1
+19;Bradley Beal;28;Point Guard;Washington Wizard;77;8.3;17.2;48.2;2.9;7.2;40.4;3.7;4.4;82.5;3.1;3.5;1.1;0.3;23.1
+20;CJ McCollum;30;Point Guard;New Orleans Pelicans;80;8.7;18.0;48.0;2.3;5.5;42.1;3.4;3.7;91.2;3.6;3.6;0.9;0.5;23.0
